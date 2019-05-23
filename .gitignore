@@ -20,6 +20,11 @@
 /node_modules
 /yarn-error.log
 
+# Ignore Byebug command history file.
 .byebug_history
 
+# Ignore JetBrains files.
 .idea/
+
+# Ignore Spring files.
+/spring/*.pid
